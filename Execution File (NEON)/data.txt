@@ -1,0 +1,152 @@
+FAST-NUCES
+2
+Electrical Engineer
+4
+CS-122, Programming Fundamental, 0
+CS-123, Differential Equation, 1
+1005, 5005
+CS-124, Pak Study, 1
+1006, 5006
+CS-125, OOP Lab, 1
+1007, 5007
+abc, abc, 1001, Ali Moosa, 20
+6
+def, def, 1002, Farooq Umer, 31, 4
+2
+CS-125
+CS-122
+ghi, ghi, 1003, Ayub AKhtar, 39, 15
+4
+CS-123
+CS-124
+CS-125
+CS-122
+Tabahi, jkl, 1004, Uzma Akhtar, 12, 7
+3
+CS-122
+CS-125
+CS-124
+mno, mno, 1005, Zahoor Elahi, 31, 15
+0
+pqr, pqr, 1006, Mohsin Ashraf, 39, 15
+0
+stu, stu, 1007, Akshay Kumar, 19, 15
+0
+5
+s1, s1, 5001, Ahmad raza, 16, 5
+1
+31101, CS-123, 0, _, 0, 0
+2020 6 4
+k89mjyu5@z, OG1h2u2tUEY0daC, 15, Ali Usman, 12, 5
+0
+mno, mno, 5005, Zahoor Elahi, 31, 5
+2
+41, CS-123, 76.5, B, 90.5, 78.3
+2019 11 29
+42, CS-125, 2.6, F, 45.2, 56.3
+2019 10 23
+pqr, pqr, 5006, Mohsin Ashraf, 39, 5
+2
+589, CS-125, 89.7, C, 89.5, 90.3
+2016 6 18
+26498, CS-122, 0, W, 0, 0
+2016 1 9
+stu, stu, 5007, Akshay Kumar, 19, 5
+3
+14080, CS-124, 0, F, 0, 0
+2020 6 4
+15748, CS-122, 98.5, A, 45.6, 64.5
+2020 3 4
+921, CS-125, 0, _, 0, 0
+2020 6 13
+Computer Science
+8
+CS-122, Programming Fundamental, 0
+CS-123, Differential Equation, 1
+1005, 5005
+CS-124, Pakistan Study, 0
+CS-125, OOP Lab, 0
+CS-126, Calculus, 0
+CS-127, Object Oriented Programming, 1
+814, 5009
+CS-128, Digital Logic Design, 0
+CS-129, Data Structure, 0
+abc, abc, 1001, Ali Moosa, 20
+11
+def, def, 1002, Farooq Umer, 31, 4
+2
+CS-125
+CS-122
+ghi, ghi, 1003, Ayub AKhtar, 39, 15
+5
+CS-123
+CS-124
+CS-125
+CS-122
+CS-127
+ali, ali, 1004, Uzma Akhtar, 12, 7
+5
+CS-122
+CS-125
+CS-124
+CS-126
+CS-127
+a2~, a2~, 1009, Salman Shah, 19, 15
+1
+CS-126
+a3~, a3~, 1010, Abdur Rehman, 19, 15
+1
+CS-124
+a4~, a4~, 1011, Sajawal Ali, 19, 15
+0
+a5~, a5~, 1012, Saqib Ali, 19, 15
+0
+vivne3q!qm, IMJXexArbPH%Skp, 10085, farhan Ali, 13, 5
+0
+s3, s3, 623, Hasnat Ali, 16, 15
+0
+mno, mno, 1005, Zahoor Elahi, 31, 15
+0
+s7, s7, 814, Ali Shan, 16, 15
+0
+9
+s1, ueu, 5001, Ahmad raza, 16, 5
+1
+31101, CS-125, 3.2, _, 50.5, 0
+2020 6 4
+s2, unknown, 5008, Ali Usman, 12, 5
+1
+34, CS-125, 0, _, 0, 0
+2020 6 15
+s6, s6, 5008, Sajawal Sial, 16, 5
+1
+1590, CS-125, 89.7, C, 89.5, 90.3
+2016 6 18
+mytgx9yx@h, iId69gZch#jMgX*, 1098, Nabeegh Ahmad, 18, 5
+1
+1591, CS-125, 69.7, C, 59.5, 80.3
+2016 6 18
+pqr, pqr, 5006, Mohsin Ashraf, 39, 5
+2
+589, CS-125, 89.7, C, 89.5, 90.3
+2016 6 18
+26498, CS-122, 0, W, 0, 0
+2016 1 9
+s3, s3, 5002, Hasnat Ali, 16, 5
+1
+46742, CS-125, 2.6, B, 25.2, 96.3
+2020 1 23
+s4, s4, 5003, Nabeel Ahmad, 16, 5
+1
+4232, CS-125, 2.6, B, 25.2, 96.3
+2020 3 23
+mno, mno, 5005, Zahoor Elahi, 31, 5
+3
+42, CS-125, 2.6, C, 45.2, 56.3
+2019 10 23
+886, CS-128, 0, _, 0, 0
+2020 6 15
+46743, CS-123, 3.6, A, 45.2, 56.3
+2019 10 23
+s7, s7, 5009, Ali Shan, 16, 5
+0
